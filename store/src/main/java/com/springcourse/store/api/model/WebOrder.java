@@ -1,4 +1,4 @@
-package com.springcourse.store.Models;
+package com.springcourse.store.api.model;
 
 import jakarta.persistence.*;
 
